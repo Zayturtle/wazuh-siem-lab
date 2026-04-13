@@ -1,3 +1,10 @@
+## Project Highlights
+- Deployed a full SIEM environment using Wazuh
+- Monitored a Windows endpoint in real time
+- Simulated brute-force login attacks
+- Detected authentication failures and suspicious behavior
+- Built dashboards to visualize threat activity
+
 # Wazuh SIEM Lab – Threat Detection & Monitoring
 
 ## Overview
@@ -62,3 +69,8 @@ Simulated brute-force login attempts using invalid credentials:
 ## Conclusion
 
 This project demonstrates hands-on experience with SIEM deployment, log analysis, threat detection, and dashboard creation in a controlled lab environment.
+
+##  Key Takeaways
+- Gained hands-on experience with SIEM deployment and log ingestion
+- Learned how to analyze authentication events and detect anomalies
+- Built practical skills in security monitoring and alert investigation
